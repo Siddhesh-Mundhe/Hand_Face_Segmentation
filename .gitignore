@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pth
+*.pyc
+.DS_Store
+models/sam_vit_b_01ec64.pth
+temp_input.jpg
